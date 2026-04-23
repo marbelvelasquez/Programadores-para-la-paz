@@ -1,0 +1,14 @@
+Pregunta 5 — Actividad práctica de algoritmia
+
+Escribe un algoritmo de mínimo 6 pasos para explicar:
+
+HACER UNA RECETA DE COCINA 
+
+1:Buscar una receta.
+2:Reunir los ingredientes.
+3:Lavar los alimentos.
+4:Cortar los ingredientes necesarios.
+5:Cocinar siguiendo los pasos.
+6:Servir la comida en un plato.
+7:Comer y limpiar la cocina.
+
