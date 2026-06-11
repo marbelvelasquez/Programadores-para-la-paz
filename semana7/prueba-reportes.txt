@@ -1,0 +1,3 @@
+Al consultar la ruta GET /reportes, el sistema muestra todos los reportes almacenados en el arreglo reportes. 
+Cada vez que se registra un nuevo reporte mediante la ruta POST, este se agrega temporalmente en memoria y puede visualizarse con la consulta GET.
+ Sin embargo, al detener o reiniciar el servidor, la información almacenada se pierde porque no se está utilizando una base de datos.
