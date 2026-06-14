@@ -1,0 +1,8 @@
+El comando `uname -a` en Linux muestra información general del sistema operativo, como el nombre del sistema
+ la versión del kernel, la arquitectura del procesador y otros detalles técnicos.
+
+El comando `whoami` muestra el nombre del usuario que tiene la sesión iniciada en el sistema.
+
+Conocer la información del sistema es útil cuando se administra un servidor porque permite identificar el entorno de trabajo
+ verificar el usuario con el que se están ejecutando las tareas y tomar decisiones adecuadas sobre mantenimiento
+  actualizaciones y seguridad del sistema.

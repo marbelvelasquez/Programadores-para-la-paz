@@ -1,0 +1,8 @@
+1. Proteger las contraseñas utilizando claves seguras y únicas.
+2. No compartir credenciales de acceso con otras personas.
+3. Mantener el software y los sistemas actualizados para corregir vulnerabilidades de seguridad.
+1. No exponer datos personales de los usuarios sin autorización.
+2. Proteger las credenciales mediante contraseñas seguras y autenticación adecuada.
+3. Utilizar conexiones seguras para proteger la información transmitida.
+4. Registrar y monitorear los accesos a la plataforma para detectar actividades sospechosas.
+5. Limitar el acceso a información sensible únicamente a usuarios autorizados.
